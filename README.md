@@ -1,5 +1,7 @@
 # PASSWORD MANAGER
 
+## Project Files
+
 There are 4 project files.
 
 - `main.py` is the main file of the project.
@@ -10,7 +12,13 @@ There are 4 project files.
 
 - `data.json` is the output generated file after a user saves a password and uses it to search the website
 
-#### Execute the `main.py` to run your project. This project also showcase Validation and Verification in form submission using messageBox of tkinter. Along with that, user can create their password or use the GENERATE PASSWORD button to get a strong password. Additional feature of the project is the SEARCHING functionality.
+
+## About Project
+
+- Execute the `main.py` to run your project. 
+- This project also showcase Validation and Verification in form submission using messageBox of tkinter. 
+- Along with that, user can create their password or use the GENERATE PASSWORD button to get a strong password. 
+- Additional feature of the project is the SEARCHING functionality. The user can search for the website and get back their data like password, email, etc.
 
 ###### This mini project is developed to enhance learning and understanding of Python, TKinter, and advanced arguments. Anyone who wishes to explore and extend this project is welcome and I will happily add them as a collaborator. Thank you.
 
